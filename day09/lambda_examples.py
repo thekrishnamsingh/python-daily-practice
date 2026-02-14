@@ -22,5 +22,5 @@ even_numbers = list(filter(lambda x: x % 2 == 0, numbers))
 print("Even numbers using filter:", even_numbers)
 
 # Using reduce()
-
+#using
 
