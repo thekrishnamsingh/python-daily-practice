@@ -10,4 +10,4 @@ def fetch_data():
 
 if __name__ == "__main__":
     data = fetch_data()
-    print("Fetched Data:", data)
+    print("Fetch Data:", data)
