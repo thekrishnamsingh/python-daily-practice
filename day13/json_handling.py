@@ -4,7 +4,7 @@ import json
 data = {
     "name": "Krishnam Singh",
     "role": "Python Developer",
-    "skills": ["Python", "Django", "FastAPI", "Flask", "Selenium",  "MongoDB", "Git","Docker", "Kubernetes", "AWS", "Azure"],
+    "skills": ["Python", "Django", "FastAPI", "Flask", "Selenium",  "MongoDB", "Git","Docker", "Kubernetes",  "Azure"],
 }
 
 # Write JSON to file
