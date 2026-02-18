@@ -7,4 +7,4 @@ def setup_logger():
         filename="app.log",
         filemode="a"
     )
-    return logging
+    return logging .getLogger(__name__)
