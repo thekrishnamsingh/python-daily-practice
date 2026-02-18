@@ -8,5 +8,5 @@
 
 ## Goal
 Understand how backend systems work with JSON data
-and external APIs.
+and external A PIs.
 
