@@ -20,3 +20,4 @@ if __name__ == "__main__":
     print(safe_int_conversion("abc"))
 
     print(read_file("sample.txt"))
+    print(read_file("nonexistent.txt"))
